@@ -1,4 +1,4 @@
-baseURL = "duckliving.netlify.com"
+baseURL = "https://sharontung.netlify.com/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
