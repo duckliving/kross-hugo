@@ -6,4 +6,4 @@ author_image: images/about/Sharon.jpg
 author_signature: images/about/signature.png
 
 ---
-Hi! I'm Sharon.
+![](/images/Sharon.jpeg)Hi! I'm Sharon.
